@@ -35,4 +35,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap-sass'
 gem 'devise', '~> 4.2'
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
-gem 'aws-sdk', '~> 2.5', '>= 2.5.3'
+gem 'aws-sdk', '< 2.0'
