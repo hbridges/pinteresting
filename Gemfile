@@ -36,4 +36,6 @@ gem 'devise', '~> 4.2'
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
 gem 'aws-sdk', '< 2.0'
 gem 'masonry-rails'
+gem 'will_paginate', '~> 3.1.0'
+gem 'will_paginate-bootstrap'
 
